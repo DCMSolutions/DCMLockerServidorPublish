@@ -1,11 +1,11 @@
 {
   "entryAssembly": "DCMLockerServidor.Client",
   "resources": {
-    "hash": "sha256-aJsOllaakGp7BijMeLR/fFYldQlZW8UMoTd9n/fHqxw=",
+    "hash": "sha256-8uwrIKccBo70vw5N7c5IBS01slhp5rcI+ITuESArXs4=",
     "runtime": {
       "dotnet.7.0.14.6h86blewly.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
-      "dotnet.timezones.blat": "sha256-dKqztlnWPN3rvLJRCI444rLYX55dtIQt/DQkFslO+z4=",
-      "dotnet.wasm": "sha256-jf7Sgp2/niCcypUppbTm8kYwiU4DO/PpejhujcbPdPU=",
+      "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
+      "dotnet.wasm": "sha256-Oyo/i3KkRvFfEKDQqn9DjK1HWx19Z6eCVCNsUFQPSJU=",
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
       "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
@@ -13,8 +13,8 @@
     "assembly": {
       "Blazored.Modal.dll": "sha256-Sr30UiM7JErBe8hojY6HAgaOOgfQE5zHijI0uVypmkM=",
       "CurrieTechnologies.Razor.SweetAlert2.dll": "sha256-jIvqMk4FuAf9lkW8kC0rtYkyAer1R5g425CZ1SSyzOc=",
-      "DCMLockerServidor.Client.dll": "sha256-Y+a0n+MIsOEoj5uCrxwYVmOgKQghBK66/XtyN8KJfXk=",
-      "DCMLockerServidor.Shared.dll": "sha256-eVFdD/V+rO2E6Wi4555fxjDRcSqxTPbaX1HiSGac/z8=",
+      "DCMLockerServidor.Client.dll": "sha256-MpYcEHGpztgOucSF8AH7zP2rPz6uWVSIbrRSTeiGiLA=",
+      "DCMLockerServidor.Shared.dll": "sha256-TaSO51JRbVhRcqXtq1k9+hGvvb10UYHzByrO2QC4OoU=",
       "Feather.Blazor.dll": "sha256-LoYpNXNZGPiOg1EI2AebI793UrpJEGiBhWcZxCRqtXg=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Xh+/+kzyfdUJN4AB8X29SjXoZqhXxqUTvicXjQ3HQIU=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-3j8dhKIT5U/B+XY+MZ28EPqtHnvPfF0uT53cDb8sSqk=",
@@ -93,7 +93,7 @@
     },
     "runtimeAssets": {
       "dotnet.wasm": {
-        "hash": "sha256-jf7Sgp2/niCcypUppbTm8kYwiU4DO/PpejhujcbPdPU=",
+        "hash": "sha256-Oyo/i3KkRvFfEKDQqn9DjK1HWx19Z6eCVCNsUFQPSJU=",
         "behavior": "dotnetwasm"
       }
     }
