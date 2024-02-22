@@ -1,7 +1,7 @@
 {
   "entryAssembly": "DCMLockerServidor.Client",
   "resources": {
-    "hash": "sha256-9E75cPYvA4jruBEfPitAcrPMb9mjLY7YTUx8Cgp9skI=",
+    "hash": "sha256-blfSmouGEvX62zpTIkVGqhdXmMv0Yi6SLa7b67LOBSs=",
     "runtime": {
       "dotnet.7.0.14.6h86blewly.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -13,8 +13,8 @@
     "assembly": {
       "Blazored.Modal.dll": "sha256-Sr30UiM7JErBe8hojY6HAgaOOgfQE5zHijI0uVypmkM=",
       "CurrieTechnologies.Razor.SweetAlert2.dll": "sha256-jIvqMk4FuAf9lkW8kC0rtYkyAer1R5g425CZ1SSyzOc=",
-      "DCMLockerServidor.Client.dll": "sha256-oPDj6gSrbdmgnFZZeVALKTsFbS/+DPam9L4rp7FowiI=",
-      "DCMLockerServidor.Shared.dll": "sha256-Qm98buvgCxZwFG81q7+o+41Xki7EJ4j7pZln3NmQDbA=",
+      "DCMLockerServidor.Client.dll": "sha256-p8sYUDufq3EL1bhwbOsu4/QBS2yFwVNp3kET6lURgug=",
+      "DCMLockerServidor.Shared.dll": "sha256-Z3jh1LnAx8paYDTzdBjlWAWMOLVJ8aBvXLe3MbfJ3zw=",
       "EPPlus.dll": "sha256-WaLjXH/U8dvwnpzunOZjc6xbZL8kfoxxKIwMvNDc3Fk=",
       "Feather.Blazor.dll": "sha256-LoYpNXNZGPiOg1EI2AebI793UrpJEGiBhWcZxCRqtXg=",
       "Microsoft.AspNetCore.Components.dll": "sha256-9f0uWAZxqE4frBC9U56hV1Ao3shQmceN5rPiLdipjGI=",
